@@ -1,0 +1,401 @@
+"city","country","pop2023","latitude","longitude","fill"
+"London","United Kingdom",8961989,51.5085,-0.12574,"#3288bd"
+"Birmingham","United Kingdom",984333,52.4814,-1.89983,"#fee08b"
+"Liverpool","United Kingdom",864122,53.4106,-2.97794,"#fee08b"
+"Sheffield","United Kingdom",685368,53.383,-1.4659,"#fdae61"
+"Bristol","United Kingdom",617280,51.4552,-2.59665,"#fdae61"
+"Glasgow","United Kingdom",591620,55.8652,-4.25763,"#fdae61"
+"Leicester","United Kingdom",508916,52.6386,-1.13169,"#fdae61"
+"Edinburgh","United Kingdom",464990,55.9521,-3.19648,"#f46d43"
+"Leeds","United Kingdom",455123,53.7965,-1.54785,"#f46d43"
+"Cardiff","United Kingdom",447287,51.48,-3.18,"#f46d43"
+"Manchester","United Kingdom",395515,53.4809,-2.23743,"#f46d43"
+"Stoke-on-Trent","United Kingdom",372775,53.0042,-2.18538,"#f46d43"
+"Coventry","United Kingdom",359262,52.4066,-1.51217,"#f46d43"
+"Sunderland","United Kingdom",335415,54.9047,-1.38222,"#f46d43"
+"Brent","United Kingdom",329100,51.5531,-0.3023,"#f46d43"
+"Birkenhead","United Kingdom",325264,53.3934,-3.01479,"#f46d43"
+"Nottingham","United Kingdom",321500,52.9536,-1.15047,"#f46d43"
+"Islington","United Kingdom",319143,51.5362,-0.10304,"#f46d43"
+"Reading","United Kingdom",318014,51.4562,-0.97113,"#f46d43"
+"Kingston upon Hull","United Kingdom",314018,53.7446,-0.33525,"#f46d43"
+"Preston","United Kingdom",313332,53.7628,-2.70452,"#f46d43"
+"Newport","United Kingdom",306844,51.5877,-2.99835,"#f46d43"
+"Swansea","United Kingdom",300352,51.6208,-3.94323,"#f46d43"
+"Bradford","United Kingdom",299310,53.7939,-1.75206,"#f46d43"
+"Southend-on-Sea","United Kingdom",295310,51.5378,0.71433,"#f46d43"
+"Belfast","United Kingdom",274770,54.5968,-5.92541
+"Derby","United Kingdom",270468,52.9228,-1.47663
+"Plymouth","United Kingdom",260203,50.3715,-4.14305
+"Luton","United Kingdom",258018,51.8797,-0.41748
+"Wolverhampton","United Kingdom",252791,52.5855,-2.12296
+"City of Westminster","United Kingdom",247614,51.4975,-0.1357
+"Southampton","United Kingdom",246201,50.9039,-1.40428
+"Blackpool","United Kingdom",239409,53.8167,-3.05
+"Milton Keynes","United Kingdom",229941,52.0417,-0.75583
+"Bexley","United Kingdom",228000,51.4416,0.14866
+"Northampton","United Kingdom",215963,52.25,-0.88333
+"Archway","United Kingdom",215667,51.5673,-0.13415
+"Norwich","United Kingdom",213166,52.6278,1.29834
+"Dudley","United Kingdom",199059,52.5,-2.08333
+"Aberdeen","United Kingdom",196670,57.1437,-2.09814
+"Portsmouth","United Kingdom",194150,50.799,-1.09125
+"Newcastle upon Tyne","United Kingdom",192382,54.9733,-1.61396
+"Sutton","United Kingdom",187600,51.35,-0.2
+"Swindon","United Kingdom",185609,51.558,-1.78116
+"Crawley","United Kingdom",180508,51.113,-0.18312
+"Ipswich","United Kingdom",178835,52.0592,1.15545
+"Wigan","United Kingdom",175405,53.543,-2.63706
+"Croydon","United Kingdom",173314,51.3833,-0.1
+"Walsall","United Kingdom",172141,52.5853,-1.98396
+"Mansfield","United Kingdom",171958,53.1333,-1.2
+"Oxford","United Kingdom",171380,51.7522,-1.25596
+"Warrington","United Kingdom",165456,53.3925,-2.58024
+"Slough","United Kingdom",163777,51.5095,-0.59541
+"Bournemouth","United Kingdom",163600,50.7205,-1.8795
+"Peterborough","United Kingdom",163379,52.5736,-0.24777
+"Cambridge","United Kingdom",158434,52.2,0.11667
+"Doncaster","United Kingdom",158141,53.5229,-1.13116
+"York","United Kingdom",153717,53.9576,-1.08271
+"Poole","United Kingdom",150092,50.7143,-1.98458
+"Gloucester","United Kingdom",150053,51.8657,-2.2431
+"Burnley","United Kingdom",149422,53.8,-2.23333
+"Huddersfield","United Kingdom",149017,53.649,-1.78416
+"Telford","United Kingdom",147980,52.6766,-2.44926
+"Dundee","United Kingdom",147710,56.4691,-2.97489
+"Blackburn","United Kingdom",146521,53.75,-2.48333
+"Basildon","United Kingdom",144859,51.5684,0.45782
+"Middlesbrough","United Kingdom",142707,54.5762,-1.23483
+"Bolton","United Kingdom",141331,53.5833,-2.43333
+"Stockport","United Kingdom",139052,53.4098,-2.15761
+"Brighton","United Kingdom",139001,50.8284,-0.13947
+"West Bromwich","United Kingdom",135618,52.5187,-1.9945
+"Grimsby","United Kingdom",134160,53.5654,-0.07553
+"Hastings","United Kingdom",133422,50.8552,0.57292
+"High Wycombe","United Kingdom",133204,51.6291,-0.74934
+"Tottenham","United Kingdom",130000,51.6037,-0.06794
+"Newcastle under Lyme","United Kingdom",129441,53,-2.23333
+"Watford","United Kingdom",125707,51.6553,-0.39602
+"Saint Peters","United Kingdom",125370,51.3667,1.41667
+"Burton upon Trent","United Kingdom",122199,52.8073,-1.64263
+"Colchester","United Kingdom",121859,51.8892,0.90421
+"Eastbourne","United Kingdom",118219,50.7687,0.28453
+"Exeter","United Kingdom",117763,50.7236,-3.52751
+"Rotherham","United Kingdom",117618,53.4301,-1.35678
+"Cheltenham","United Kingdom",116447,51.9001,-2.07972
+"Lincoln","United Kingdom",114879,53.2268,-0.53792
+"Chesterfield","United Kingdom",113057,53.25,-1.41667
+"Chelmsford","United Kingdom",111511,51.7357,0.46958
+"Mendip","United Kingdom",110000,51.2372,-2.6266
+"Walthamstow","United Kingdom",109424,51.5907,-0.02077
+"Dagenham","United Kingdom",108368,51.55,0.16667
+"Basingstoke","United Kingdom",107642,51.2625,-1.08708
+"Maidstone","United Kingdom",107627,51.2667,0.51667
+"Sutton Coldfield","United Kingdom",107030,52.5667,-1.81667
+"Bedford","United Kingdom",106940,52.1346,-0.46632
+"Oldham","United Kingdom",104782,53.5405,-2.1183
+"Enfield Town","United Kingdom",103970,51.6515,-0.08497
+"Woking","United Kingdom",103932,51.319,-0.55893
+"St Helens","United Kingdom",102555,53.45,-2.73333
+"Worcester","United Kingdom",101659,52.1894,-2.22001
+"Gillingham","United Kingdom",101187,51.3891,0.54863
+"Becontree","United Kingdom",100000,51.5529,0.129
+"Worthing","United Kingdom",99110,50.818,-0.37538
+"Rochdale","United Kingdom",97550,53.6177,-2.1552
+"Solihull","United Kingdom",96267,52.4143,-1.78094
+"Royal Leamington Spa","United Kingdom",95172,52.2852,-1.52
+"Romford","United Kingdom",95000,51.5751,0.18582
+"Bath","United Kingdom",94782,51.3751,-2.36172
+"Harlow","United Kingdom",94365,51.7766,0.11158
+"Nuneaton","United Kingdom",92698,52.5232,-1.46523
+"High Peak","United Kingdom",92600,53.368,-1.84536
+"Darlington","United Kingdom",92363,54.5243,-1.55039
+"Southport","United Kingdom",91703,53.6458,-3.01008
+"Chester","United Kingdom",90524,53.1905,-2.89189
+"Stevenage","United Kingdom",90232,51.9022,-0.20256
+"Wembley","United Kingdom",90045,51.5524,-0.29686
+"Grays","United Kingdom",89755,51.4757,0.32521
+"Harrogate","United Kingdom",89060,53.9908,-1.5373
+"Hartlepool","United Kingdom",88855,54.6855,-1.21028
+"Fulham","United Kingdom",87161,51.4803,-0.1993
+"Londonderry County Borough","United Kingdom",87153,54.9972,-7.30917
+"Cannock","United Kingdom",86121,52.6904,-2.03085
+"Hemel Hempstead","United Kingdom",85629,51.7537,-0.44975
+"St Albans","United Kingdom",84561,51.75,-0.33333
+"Redditch","United Kingdom",84300,52.3065,-1.94569
+"South Shields","United Kingdom",83655,54.9986,-1.4323
+"Derry","United Kingdom",83652,54.9981,-7.30934
+"Weston-super-Mare","United Kingdom",82903,51.346,-2.97665
+"Halifax","United Kingdom",82624,53.7167,-1.85
+"Edmonton","United Kingdom",82000,51.6256,-0.05798
+"Beckenham","United Kingdom",82000,51.4088,-0.02526
+"Tamworth","United Kingdom",81964,52.634,-1.69587
+"Scunthorpe","United Kingdom",79977,53.579,-0.65437
+"Stockton-on-Tees","United Kingdom",79957,54.5685,-1.3187
+"Wakefield","United Kingdom",78978,53.6833,-1.49768
+"Carlisle","United Kingdom",78470,54.8951,-2.9382
+"Gateshead","United Kingdom",77649,54.9621,-1.60168
+"Lisburn","United Kingdom",77506,54.5234,-6.03527
+"Putney","United Kingdom",77140,51.4607,-0.21814
+"Fylde","United Kingdom",76500,53.8333,-2.91667
+"Paisley","United Kingdom",76220,55.8317,-4.43254
+"Bracknell","United Kingdom",76103,51.4136,-0.75054
+"Battersea","United Kingdom",75651,51.4748,-0.15547
+"Crewe","United Kingdom",75556,53.0979,-2.44161
+"Chatham","United Kingdom",75509,51.3789,0.52786
+"Hove","United Kingdom",75174,50.8309,-0.1672
+"Aylesbury","United Kingdom",74748,51.8167,-0.81458
+"East Kilbride","United Kingdom",74740,55.7641,-4.17669
+"Canary Wharf","United Kingdom",73390,51.5052,-0.02085
+"Rugby","United Kingdom",73150,52.3709,-1.26417
+"Salford","United Kingdom",72750,53.4877,-2.29042
+"Purley","United Kingdom",72000,51.3368,-0.11201
+"Guildford","United Kingdom",71873,51.2354,-0.57427
+"Shrewsbury","United Kingdom",71715,52.7101,-2.75208
+"Peckham","United Kingdom",71552,51.474,-0.06969
+"Barnsley","United Kingdom",71447,53.55,-1.48333
+"Lowestoft","United Kingdom",70945,52.4752,1.75167
+"Gosport","United Kingdom",70793,50.7951,-1.12902
+"Uxbridge","United Kingdom",70000,51.5489,-0.48211
+"Southall","United Kingdom",70000,51.509,-0.3713
+"Stafford","United Kingdom",69217,52.8052,-2.11636
+"Royal Tunbridge Wells","United Kingdom",68910,51.1332,0.26256
+"Wimbledon","United Kingdom",68187,51.4221,-0.20805
+"Stamford Hill","United Kingdom",68050,51.5687,-0.07334
+"Ellesmere Port","United Kingdom",67768,53.2788,-2.90134
+"Rossendale","United Kingdom",67400,53.6846,-2.2769
+"Folkestone","United Kingdom",66429,51.0817,1.16734
+"Brixton","United Kingdom",66300,51.4659,-0.10652
+"Hounslow","United Kingdom",66292,51.4684,-0.36092
+"Chingford","United Kingdom",66211,51.6303,0.00051
+"Finchley","United Kingdom",65812,51.601,-0.19518
+"Wrexham","United Kingdom",65692,53.0466,-2.99132
+"Torquay","United Kingdom",65388,50.462,-3.52522
+"Cricklewood","United Kingdom",65000,51.5567,-0.21549
+"Maidenhead","United Kingdom",64831,51.5228,-0.71986
+"Kingswood","United Kingdom",64793,51.4528,-2.50833
+"Taunton","United Kingdom",64621,51.0149,-3.10293
+"Waterlooville","United Kingdom",64350,50.8807,-1.0304
+"Macclesfield","United Kingdom",63954,53.2602,-2.12564
+"Bognor Regis","United Kingdom",63885,50.7821,-0.67978
+"Newtownabbey","United Kingdom",63860,54.6598,-5.90858
+"Kettering","United Kingdom",63675,52.3984,-0.72571
+"Buckley","United Kingdom",63576,53.1667,-3.08333
+"Great Yarmouth","United Kingdom",63434,52.6083,1.73052
+"Mitcham","United Kingdom",63393,51.4032,-0.16831
+"Runcorn","United Kingdom",62872,53.3417,-2.73124
+"Ashford","United Kingdom",62787,51.1465,0.87376
+"Tonypandy","United Kingdom",62545,51.622,-3.45544
+"Scarborough","United Kingdom",61749,54.2797,-0.40443
+"Widnes","United Kingdom",61464,53.3618,-2.73406
+"Aldershot","United Kingdom",61339,51.2483,-0.76389
+"Bury","United Kingdom",61044,53.6,-2.3
+"Barking","United Kingdom",61000,51.5333,0.08333
+"Castleford","United Kingdom",60509,53.7259,-1.36256
+"Hereford","United Kingdom",60415,52.0568,-2.71482
+"Bangor","United Kingdom",60385,54.6608,-5.66802
+"Stroud","United Kingdom",60155,51.75,-2.2
+"Margate","United Kingdom",60134,51.3813,1.38617
+"Chelsea","United Kingdom",60000,51.4875,-0.16936
+"Loughborough","United Kingdom",59932,52.7667,-1.2
+"Welwyn Garden City","United Kingdom",59910,51.8017,-0.20691
+"Farnborough","United Kingdom",59902,51.2942,-0.75565
+"Rhondda","United Kingdom",59450,51.659,-3.44885
+"Craigavon","United Kingdom",59236,54.4471,-6.387
+"Wallasey","United Kingdom",58794,53.4232,-3.06497
+"Littlehampton","United Kingdom",58714,50.8114,-0.54078
+"Bridgend","United Kingdom",58380,51.5058,-3.57722
+"Streatham","United Kingdom",58055,51.429,-0.13184
+"Bootle","United Kingdom",57791,53.4667,-3.01667
+"Weymouth","United Kingdom",57691,50.6145,-2.45991
+"Fareham","United Kingdom",57390,50.8516,-1.17929
+"Morley","United Kingdom",57385,53.7401,-1.59877
+"Cheshunt","United Kingdom",57374,51.7002,-0.03026
+"Kidderminster","United Kingdom",57059,52.3882,-2.25
+"Corby","United Kingdom",56810,52.4964,-0.68939
+"Dartford","United Kingdom",56694,51.4466,0.21423
+"Castlereagh","United Kingdom",56679,54.5735,-5.88472
+"Dewsbury","United Kingdom",56640,53.6908,-1.62907
+"Livingston","United Kingdom",56570,55.9029,-3.52261
+"Stourbridge","United Kingdom",56284,52.4561,-2.14317
+"Sale","United Kingdom",55689,53.4252,-2.32443
+"Halesowen","United Kingdom",55265,52.4486,-2.04938
+"Canterbury","United Kingdom",55240,51.279,1.07992
+"South Croydon","United Kingdom",55198,51.3622,-0.09421
+"Huyton","United Kingdom",54738,53.4115,-2.83935
+"Leytonstone","United Kingdom",54696,51.5686,0.00768
+"Barry","United Kingdom",54673,51.3998,-3.2838
+"Gravesend","United Kingdom",54263,51.4421,0.37106
+"Eastleigh","United Kingdom",54225,50.9667,-1.35
+"Meikle Earnock","United Kingdom",54080,55.75,-4.03333
+"Acton","United Kingdom",53689,51.509,-0.2762
+"Washington","United Kingdom",53526,54.9,-1.51667
+"Braintree","United Kingdom",53477,51.8782,0.55292
+"Hamilton","United Kingdom",53200,55.7667,-4.03333
+"Brentwood","United Kingdom",52586,51.6213,0.30556
+"Esher","United Kingdom",52392,51.3697,-0.36693
+"Crosby","United Kingdom",52140,53.4778,-3.03333
+"Reigate","United Kingdom",52123,51.2374,-0.20582
+"Dunstable","United Kingdom",51973,51.8857,-0.52288
+"Morecambe","United Kingdom",51644,54.0684,-2.86108
+"Cumbernauld","United Kingdom",51610,55.9468,-3.99051
+"Redhill","United Kingdom",51559,51.2405,-0.17044
+"Horsham","United Kingdom",51472,51.0631,-0.32757
+"Staines","United Kingdom",51040,51.4309,-0.50606
+"Batley","United Kingdom",50807,53.7029,-1.6337
+"Wellingborough","United Kingdom",50577,52.3027,-0.69446
+"Clacton-on-Sea","United Kingdom",50548,51.7897,1.15597
+"Dunfermline","United Kingdom",50380,56.0716,-3.45887
+"Bletchley","United Kingdom",50193,51.9933,-0.73471
+"Keighley","United Kingdom",50171,53.8679,-1.90664
+"Hayes","United Kingdom",50000,51.5158,-0.4234
+"Paignton","United Kingdom",49886,50.4356,-3.56789
+"Llanelli","United Kingdom",49591,51.6819,-4.16191
+"Kirkcaldy","United Kingdom",49460,56.1168,-3.15999
+"Bromsgrove","United Kingdom",49117,52.3357,-2.05983
+"Eltham","United Kingdom",48964,51.4506,0.05225
+"Sittingbourne","United Kingdom",48948,51.3413,0.73282
+"South Benfleet","United Kingdom",48824,51.553,0.55962
+"Banbury","United Kingdom",48651,52.0632,-1.34222
+"West Bridgford","United Kingdom",48314,52.9298,-1.12537
+"Morden","United Kingdom",48233,51.3982,-0.19837
+"Cwmbran","United Kingdom",48157,51.6545,-3.02281
+"Long Eaton","United Kingdom",47898,52.8985,-1.27136
+"Durham","United Kingdom",47785,54.7768,-1.57566
+"Northwich","United Kingdom",47421,53.2588,-2.52025
+"Ayr","United Kingdom",47190,55.4627,-4.63393
+"Perth","United Kingdom",47180,56.3952,-3.43139
+"Lancaster","United Kingdom",47162,54.0465,-2.79988
+"Tipton","United Kingdom",47000,52.5296,-2.06773
+"Inverness","United Kingdom",46870,57.4791,-4.22398
+"Kilmarnock","United Kingdom",46350,55.6117,-4.49581
+"Banstead","United Kingdom",46280,51.3223,-0.20685
+"Neath","United Kingdom",46126,51.6632,-3.80443
+"King's Lynn","United Kingdom",46093,52.7517,0.39516
+"Winchester","United Kingdom",46074,51.0651,-1.3187
+"Barrow in Furness","United Kingdom",45865,54.1109,-3.22758
+"Yeovil","United Kingdom",45784,50.9416,-2.63211
+"Middleton","United Kingdom",45589,53.55,-2.2
+"Havant","United Kingdom",45574,50.8567,-0.98559
+"Carshalton","United Kingdom",45525,51.3683,-0.16755
+"Hinckley","United Kingdom",45249,52.5389,-1.37613
+"Catford","United Kingdom",44905,51.4449,-0.02043
+"Salisbury","United Kingdom",44748,51.0693,-1.79569
+"Pontefract","United Kingdom",44710,53.6911,-1.31269
+"Willesden","United Kingdom",44295,51.5333,-0.23333
+"Coatbridge","United Kingdom",43970,55.8622,-4.02469
+"Sutton in Ashfield","United Kingdom",43912,53.1254,-1.26135
+"Grantham","United Kingdom",43833,52.9115,-0.64184
+"Merthyr Tydfil","United Kingdom",43820,51.7479,-3.37779
+"Great Sankey","United Kingdom",43793,53.3923,-2.63994
+"Greenock","United Kingdom",43690,55.9484,-4.76121
+"Ashton-under-Lyne","United Kingdom",43675,53.4888,-2.0989
+"Leigh","United Kingdom",43626,53.4964,-2.51973
+"Leatherhead","United Kingdom",43544,51.2965,-0.3338
+"Letchworth Garden City","United Kingdom",43529,51.9794,-0.22664
+"Newark on Trent","United Kingdom",43363,53.0667,-0.81667
+"Worksop","United Kingdom",43252,53.3018,-1.12404
+"Bury St Edmunds","United Kingdom",42812,52.2463,0.71111
+"Kirkby","United Kingdom",42744,53.4814,-2.89215
+"Wallsend","United Kingdom",42739,54.9911,-1.53397
+"Redruth","United Kingdom",42690,50.2332,-5.22434
+"Welling","United Kingdom",42500,51.4625,0.10759
+"Christchurch","United Kingdom",42396,50.7358,-1.78129
+"Andover","United Kingdom",42276,51.2113,-1.49393
+"Stretford","United Kingdom",41953,53.45,-2.31667
+"Dover","United Kingdom",41709,51.126,1.31257
+"Hatfield","United Kingdom",41677,51.7634,-0.22419
+"Altrincham","United Kingdom",41548,53.3875,-2.34848
+"Coity","United Kingdom",41352,51.522,-3.55531
+"Newburn","United Kingdom",41347,54.9876,-1.74415
+"Boston","United Kingdom",41340,52.9763,-0.02664
+"Holloway","United Kingdom",41329,51.5524,-0.12497
+"Lytham St Annes","United Kingdom",41327,53.7426,-2.997
+"Bridgwater","United Kingdom",41276,51.1284,-3.00356
+"Urmston","United Kingdom",41198,53.4485,-2.35419
+"Wokingham","United Kingdom",41143,51.4112,-0.83565
+"Swadlincote","United Kingdom",40960,52.774,-1.55744
+"Trowbridge","United Kingdom",40952,51.3189,-2.20861
+"Prescot","United Kingdom",40889,53.4295,-2.80031
+"Bexhill-on-Sea","United Kingdom",40478,50.8502,0.47095
+"Bloxwich","United Kingdom",40000,52.6181,-2.00431
+"Ewell","United Kingdom",39994,51.3495,-0.2494
+"North Shields","United Kingdom",39747,55.0165,-1.44925
+"Shepherds Bush","United Kingdom",39724,51.505,-0.2211
+"Glenrothes","United Kingdom",39100,56.1951,-3.17316
+"Skelmersdale","United Kingdom",38944,53.5502,-2.77348
+"Fleet","United Kingdom",38726,51.2833,-0.83333
+"Abingdon","United Kingdom",38676,51.6711,-1.28278
+"Tonbridge","United Kingdom",38657,51.1953,0.27363
+"Ramsgate","United Kingdom",38624,51.3357,1.41797
+"Ilkeston","United Kingdom",38587,52.9706,-1.30951
+"Coalville","United Kingdom",38245,52.7225,-1.3702
+"Canvey Island","United Kingdom",38170,51.522,0.5809
+"Surbiton","United Kingdom",38158,51.3915,-0.29825
+"Whitley Bay","United Kingdom",38055,55.0397,-1.44713
+"Greenford","United Kingdom",38000,51.5287,-0.35508
+"Arnold","United Kingdom",37873,53,-1.13333
+"Houghton-Le-Spring","United Kingdom",37840,54.8403,-1.46427
+"Bishops Stortford","United Kingdom",37838,51.8711,0.15868
+"Leyland","United Kingdom",37614,53.6979,-2.68758
+"Rushden","United Kingdom",37584,52.2893,-0.60184
+"Leighton Buzzard","United Kingdom",37469,51.9172,-0.65802
+"Yeadon","United Kingdom",37379,53.8644,-1.68743
+"Blyth","United Kingdom",37339,55.1271,-1.50856
+"Eccles","United Kingdom",37275,53.4833,-2.33333
+"Redcar","United Kingdom",37203,54.6166,-1.05999
+"Airdrie","United Kingdom",37130,55.866,-3.98025
+"Heston","United Kingdom",37045,51.4836,-0.37577
+"Peterlee","United Kingdom",37015,54.7603,-1.33649
+"Farnham","United Kingdom",36971,51.2144,-0.80054
+"Chester-le-Street","United Kingdom",36917,54.8586,-1.57408
+"Great Malvern","United Kingdom",36770,52.1116,-2.32515
+"Stratford","United Kingdom",36666,51.5333,0
+"Herne Bay","United Kingdom",36642,51.373,1.12857
+"Wilmslow","United Kingdom",36617,53.328,-2.23148
+"Newton Abbot","United Kingdom",36474,50.5286,-3.61186
+"Stirling","United Kingdom",36440,56.119,-3.93682
+"Mangotsfield","United Kingdom",36427,51.4878,-2.50403
+"Billericay","United Kingdom",36338,51.6287,0.41963
+"Chipping Sodbury","United Kingdom",36108,51.5381,-2.39379
+"Hitchin","United Kingdom",36099,51.9492,-0.28496
+"Walkden","United Kingdom",35937,53.5167,-2.4
+"Tyldesley","United Kingdom",35932,53.5139,-2.46754
+"Chippenham","United Kingdom",35800,51.46,-2.12472
+"Billingham","United Kingdom",35708,54.5888,-1.29034
+"Pontypool","United Kingdom",35686,51.7011,-3.04444
+"Accrington","United Kingdom",35318,53.7538,-2.35863
+"Falkirk","United Kingdom",35310,56.0021,-3.78535
+"Briton Ferry","United Kingdom",35179,51.6311,-3.81898
+"Hoddesdon","United Kingdom",35174,51.7615,-0.01144
+"Bridlington","United Kingdom",35154,54.0831,-0.19192
+"Bentley","United Kingdom",34821,53.5333,-1.15
+"Exmouth","United Kingdom",34432,50.6172,-3.40233
+"Yate","United Kingdom",34406,51.5407,-2.41839
+"Felling","United Kingdom",34355,54.953,-1.57152
+"Chiswick","United Kingdom",34337,51.4927,-0.25801
+"Colwyn Bay","United Kingdom",34284,53.2948,-3.72674
+"Radcliffe","United Kingdom",34239,53.5618,-2.32455
+"Totton","United Kingdom",34169,50.9188,-1.49037
+"Chorley","United Kingdom",33888,53.65,-2.61667
+"Bicester","United Kingdom",33846,51.9,-1.15357
+"Haywards Heath","United Kingdom",33845,50.9977,-0.10313
+"Irvine","United Kingdom",33740,55.6194,-4.65508
+"Wigston Magna","United Kingdom",33720,52.5813,-1.09248
+"Wednesfield","United Kingdom",33555,52.5963,-2.08508
+"Strood","United Kingdom",33381,51.3932,0.47713
+"Windsor","United Kingdom",33348,51.4833,-0.6
+"Dumfries","United Kingdom",33280,55.0696,-3.61139
+"Glossop","United Kingdom",33243,53.4432,-1.949
+"Cramlington","United Kingdom",33180,55.0865,-1.58598
+"Pudsey","United Kingdom",33109,53.7954,-1.66134
+"Ebbw Vale","United Kingdom",33068,51.7771,-3.20792
+"Newbury","United Kingdom",33065,51.4015,-1.32471
+"Wickford","United Kingdom",32975,51.611,0.52331
+"Washwood Heath","United Kingdom",32921,52.5005,-1.82657
+"Lichfield","United Kingdom",32877,52.6815,-1.82549
+"Brighouse","United Kingdom",32872,53.7032,-1.78428
+"Darwen","United Kingdom",32566,53.698,-2.46494
+"Wisbech","United Kingdom",32489,52.6662,0.15938
+"Aston","United Kingdom",32286,52.5,-1.88333
+"Borehamwood","United Kingdom",32176,51.6547,-0.27762
